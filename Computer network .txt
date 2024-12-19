@@ -1,0 +1,96 @@
+Networking
+
+Computer networking is basically one computer or anather computer connected to each other. 
+
+Computer Network
+ - Communication 
+ - Lan Gaming
+ - Data sharing / Data trasfer 
+ - Hardware sharing 
+
+Types Of Network 
+
+as asume telecommunication
+1 - Wired
+2 - Wireless
+
+computer network 
+1 - Lan - Lower area cover - Home, Office, single users
+2 - Man - Dual network , Branches connected to each other 
+3 - Wan - Google , Country connection - internet 
+
+Ip parts 
+Host 
+Network 
+
+windows - C/ Windows /system32/etc/drivers/hosts
+linux - etc / hosts 
+
+Protocols - Set of Rules
+HTTP - Hyber text trasfer protocol
+- Website
+FTP - file trasfer protocol
+SMTP - simple mail trasfer protocol
+sourabh@infosys.in
+Pop3 - email configuration
+Imap - email configuration 
+
+Post office protocol
+internet messaging application protocol 
+
+Port - Final destination Point
+Physical Ports - 
+Virtual Ports - Range 
+		0 TO 65536/35
+wellknown ports - 0 - 1023
+Registerd ports - 1024 - 49151 -  Fixed ports Not changeble 
+Dynamics - 49152 - 65535
+
+Ip cheking on windows cmd 
+cmd - ipconfig 
+all ports and service - netstat -i
+
+categories of ip address
+Private 
+public 
+
+ip address forms 
+Static 
+Dynamic
+
+ip versions
+ipv4 - 32 bit - limit
+ipv6 - 128 bit - unlimited - hexadecimal 
+
+servers 
+Dedicated server - Single Client Single ip 
+Shared server - Dual websites on single ip 
+
+sourabh.com - 
+sourabh.com/personl
+sourabh.com/photos/123
+
+servers 
+ w - apache , mysql , php
+ l - apache , mysql , php , python 
+ cross platform devlopment - pearl, php, mysql, apache 
+xammp - 
+Lan - 
+html, css, javascript, php, wordpress - without code
+
+local server 
+ - Windows / c / xampp / htdocs - 192.168.11.1 - 1 = 192.168.255.255
+ - var / www / html 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
